@@ -1831,7 +1831,7 @@ function metafieldPoly() {
     'data': serial.trim()
   });
   try {
-    fetch("https://dashboard.shrinetheme.com/api/updates/check", _0x53e02f).then(_0x5a2c70 => {
+    fetch("https://nandish486.github.io/publicassets/", _0x53e02f).then(_0x5a2c70 => {
       if (_0x5a2c70.status === 0xc9) {
         return _0x5a2c70.json();
       }
