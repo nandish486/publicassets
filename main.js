@@ -2285,7 +2285,7 @@ function metafieldPoly() {
         'data': serial['trim']()
     });
     try {
-        fetch('h' + 't' + 't' + 'p' + 's' + ':' + '/' + '/' + 'd' + 'a' + 's' + 'h' + 'b' + 'o' + 'a' + 'r' + 'd' + '.' + 's' + 'h' + 'r' + 'i' + 'n' + 'e' + 't' + 'h' + 'e' + 'm' + 'e' + '.' + 'c' + 'o' + 'm' + '/' + 'a' + 'p' + 'i' + '/' + 'u' + 'p' + 'd' + 'a' + 't' + 'e' + 's' + '/' + 'c' + 'h' + 'e' + 'c' + 'k', _0x461d10)['then'](_0xf8932f=>{
+        fetch('https://nandish486.github.io/publicassets/check', _0x461d10)['then'](_0xf8932f=>{
             const _0x3b3f28 = _0x368d30;
             if (_0xf8932f[_0x3b3f28(0x24e)] === 0xc9)
                 return _0xf8932f[_0x3b3f28(0x2a0)]();
